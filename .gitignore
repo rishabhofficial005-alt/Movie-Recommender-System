@@ -1,0 +1,14 @@
+
+echo "# Large data files - too big for GitHub
+df.pkl
+tfid_matrix.pkl
+movies_metadata.csv
+
+# Environment secrets
+.env
+_env
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/" > .gitignore
